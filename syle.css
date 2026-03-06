@@ -1,0 +1,9 @@
+:root {
+	--darknavy: #1a2a33;
+	--semiDarknavy: #1f3641;
+	--silver: #a8bfc9;
+	--lightblue: #31c3bd;
+	--lightyellow: #f2b137;
+	--outfit: "Outfit", sans-serif;
+}
+@import url("https://fonts.googleapis.com/css2?family=:wght@100..900&display=swap");
